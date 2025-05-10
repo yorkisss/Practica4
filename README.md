@@ -5,3 +5,6 @@ Ademas de llevarlo a un entorno grafico en forma de app usando Reflex.
 # Clonar el repositorio
 Para ejecutar y visualizar el contenido, clonar: https://github.com/yorkisss/Practica4.git
 
+# Ver pagina en Reflex
+http://localhost:3000/
+
